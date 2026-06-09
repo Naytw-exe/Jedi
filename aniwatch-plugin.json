@@ -4,7 +4,7 @@
   "pluginType": "provider",
   "pluginProvider": "Standard",
   "contentProvider": "Aniwatch / HiAnime",
-  "scriptUrl": "https://raw.githubusercontent.com/Jedi/mojuru-plugins/main/aniwatch-plugin-script.js",
+  "scriptUrl": "https://raw.githubusercontent.com/Naytw-exe/Jedi/main/aniwatch-plugin-script.js",
   "version": "1.0.0",
   "language": "English",
   "streamType": "HLS",
